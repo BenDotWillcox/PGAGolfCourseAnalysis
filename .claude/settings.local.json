@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; nb = json.load\\(open\\(''/c/Users/benja/PycharmProjects/PGAGolfCourseAnalysis/DataExploration.ipynb''\\)\\); print\\(''Cells:'', len\\(nb[''cells'']\\)\\); [print\\(f''Cell {i}: {c[\"\"cell_type\"\"]}''\\) for i, c in enumerate\\(nb[''cells''][:30]\\)]\")",
+      "Bash(python3 -c \"import json; nb = json.load\\(open\\(''DataExploration.ipynb''\\)\\); print\\(''Total cells:'', len\\(nb[''cells'']\\)\\); print\\(''\\\\nCell structure:''\\); [print\\(f''Cell {i}: {c[\"\"cell_type\"\"] if \"\"cell_type\"\" in c else \"\"unknown\"\"}''\\) for i, c in enumerate\\(nb[''cells'']\\)]\")",
+      "Bash(python3:*)",
+      "Bash(python -c \":*)",
+      "Read(//c/Users/benja/Downloads/**)",
+      "Bash(.venv/Scripts/pip install:*)",
+      "Bash(timeout 10 .venv/Scripts/streamlit run app.py --server.headless true)",
+      "WebFetch(domain:datagolf.com)",
+      "Bash(.venv/Scripts/python -c \":*)",
+      "Bash(.venv/Scripts/python -m src.api)",
+      "Bash(.venv/Scripts/python -c \"import umap; print\\(''umap version:'', umap.__version__\\)\")",
+      "Bash(timeout 15 .venv/Scripts/streamlit run app.py --server.headless true)"
+    ]
+  }
+}
