@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Streamlit App",
+      "runtimeExecutable": ".venv/Scripts/streamlit",
+      "runtimeArgs": ["run", "app.py", "--server.headless", "true"],
+      "port": 8501
+    },
+    {
+      "name": "Jupyter Notebook",
+      "runtimeExecutable": ".venv/Scripts/jupyter",
+      "runtimeArgs": ["notebook", "--no-browser"],
+      "port": 8888
+    }
+  ]
+}

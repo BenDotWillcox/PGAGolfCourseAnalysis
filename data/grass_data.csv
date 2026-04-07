@@ -1,0 +1,89 @@
+course,greens,gheight,fairways,fheight,rough,rheight,soil,bunkers,waterholes
+Albany GC,bermudagrass,0.09,bermudagrass,0.4,bermudagrass,1.5,sandy,52,5.0
+Arnold Palmer's Bay Hill Club &amp; Lodge,bermudagrass,0.11,bermudagrass,0.35,bermudagrass,3.0,sandy loam,84,9.0
+Aronimink GC,bentgrass,0.1,bentgrass,0.35,mix,3.0,loam,176,4.0
+Augusta National Golf Club,bentgrass,0.125,ryegrass,0.375,ryegrass,1.375,clay,44,5.0
+Austin Country Club,bermudagrass,0.1,bermudagrass,0.375,bermudagrass,2.0,sandy loam,110,5.0
+Baltusrol GC,bentgrass,0.09,bentgrass,0.325,kentucky bluegrass,5.0,sandy loam,138,5.0
+Bellerive CC,bentgrass,0.125,zoysia,0.5,tall fescue,3.0,none,76,16.0
+Bethpage Black,poa annua,0.1,poa annua,0.4,kentucky bluegrass,3.5,sandy,78,1.0
+Caves Valley Golf Club,bentgrass,0.105,bentgrass,0.4,tall fescue,3.0,sand capped,0,5.0
+Club de Golf Chapultepec,poa annua,0.0,kikuyu,0.0,kikuyu,0.0,none,0,0.0
+Colonial Country Club,bentgrass,0.1,bermudagrass,0.35,bermudagrass,3.0,clay,84,6.0
+Congaree Golf Club,bermudagrass,0.0,bermudagrass,0.0,sand,0.0,sandy,250,10.0
+Congressional CC (Blue),bentgrass,0.1,bentgrass,0.3,tall fescue,3.0,clay,99,5.0
+Conway Farms GC,bentgrass,0.1,bentgrass,0.35,kentucky bluegrass,3.5,none,0,6.0
+Crooked Stick GC,bentgrass,0.1,bentgrass,0.4,kentucky bluegrass,3.5,clay,89,8.0
+Detroit Golf Club,bentgrass,0.1,bentgrass,0.375,kentucky bluegrass,4.0,clay loam,87,1.0
+Eagle Point Golf Club,bentgrass,0.0,bermudagrass,0.35,bermudagrass,2.5,sandy loam,74,7.0
+East Lake Golf Club,bermudagrass,0.12,zoysia,0.55,bermudagrass,2.25,clay,74,4.0
+Firestone CC (South),bentgrass,0.1,bentgrass,0.3,kentucky bluegrass,3.25,loam,82,3.0
+Glen Abbey GC,bentgrass,0.115,bentgrass,0.4,kentucky bluegrass,3.0,clay,93,12.0
+Glen Oaks Club,bentgrass,0.0,bermudagrass,0.0,bermudagrass,0.0,none,0,0.0
+Golf Club of Houston,bermudagrass,0.1,bermudagrass,0.45,ryegrass,1.25,clay,60,8.0
+Hamilton Golf &amp; Country Club,poa trivialis,0.115,poa trivialis,0.375,poa trivialis,3.5,loam,88,9.0
+Harbour Town Golf Links,poa trivialis,0.115,ryegrass,0.375,ryegrass,1.25,sandy loam,54,0.0
+Innisbrook Resort (Copperhead Course),poa trivialis,0.12,ryegrass,0.45,ryegrass,3.75,none,74,9.0
+Keene Trace Golf Club (Champions Course),bentgrass,0.0,bentgrass,0.0,kentucky bluegrass,0.0,sandy loam,76,6.0
+Liberty National Golf Club,bentgrass,0.1,bentgrass,0.375,kentucky bluegrass,3.0,sand capped,98,12.0
+Medinah Country Club (No. 3),bentgrass,0.125,bentgrass,0.35,kentucky bluegrass,2.5,loam,71,2.0
+Memorial Park Golf Course,poa trivialis,0.11,ryegrass,0.4,ryegrass,1.25,sand capped,21,4.0
+Muirfield Village Golf Club,bentgrass,0.09,bentgrass,0.35,kentucky bluegrass,4.0,clay,68,13.0
+Muirfield Village Golf Club (Workday),bentgrass,0.09,bentgrass,0.375,kentucky bluegrass,3.0,clay,74,13.0
+Oak Hill Country Club,bentgrass,0.0,bentgrass,0.0,kentucky bluegrass,0.0,sandy loam,78,6.0
+Oakdale Golf &amp; Country Club,bentgrass,0.0,bentgrass,0.0,kentucky bluegrass,4.0,none,57,0.0
+Ocean Course at Kiawah Island,paspalum,0.09,paspalum,0.3,bermudagrass,3.5,sandy,150,6.0
+Olympia Fields Country Club (North Course),bentgrass,0.095,bentgrass,0.4,kentucky bluegrass,4.0,loam,91,8.0
+PGA National Resort (The Champion - Par 71),bermudagrass,0.12,bermudagrass,0.45,bermudagrass,2.125,loam,60,15.0
+PGA National Resort (The Champion),bermudagrass,0.115,bermudagrass,0.4,bermudagrass,2.5,loam,60,15.0
+PGA West (Palmer),bentgrass,0.0,bermudagrass,0.0,bermudagrass,0.0,none,0,0.0
+Pebble Beach Golf Links,poa annua,0.125,poa annua,0.4,ryegrass,2.5,sandy loam,116,1.0
+Pebble Beach Golf Links (U.S. Open),poa annua,0.11,poa annua,0.425,ryegrass,4.0,sandy loam,118,1.0
+Pete Dye Stadium Course,poa trivialis,0.11,ryegrass,0.35,bermudagrass,2.0,none,90,7.0
+Plainfield CC,poa annua,0.1,bentgrass,0.35,kentucky bluegrass,3.5,sandy loam,0,12.0
+Plantation Course at Kapalua,bermudagrass,0.11,bermudagrass,0.375,bermudagrass,2.5,clay,93,4.0
+Quail Hollow Club,bermudagrass,0.125,bermudagrass,0.35,bermudagrass,2.0,clay,61,0.001
+Quail Hollow Club (PGA Championship),bermudagrass,0.125,bermudagrass,0.45,bermudagrass,2.25,clay,60,4.0
+RTJ Trail (Grand National),bermudagrass,0.125,bermudagrass,0.437,bermudagrass,2.25,loam,53,4.0
+Ridgewood CC,poa annua,0.0,poa annua,0.0,kentucky bluegrass,0.0,sandy loam,81,10.0
+Robert Trent Jones GC,bentgrass,0.115,bentgrass,0.35,kentucky bluegrass,3.5,clay,65,0.0
+Royal Liverpool,bentgrass,0.15,fescue,0.395,tall fescue,2.0,sandy,84,10.0
+Sea Island Golf Club (Seaside),bermudagrass,0.09,bermudagrass,0.4,bermudagrass,2.0,clay,47,0.0
+Sedgefield Country Club,bermudagrass,0.12,bermudagrass,0.4,bermudagrass,2.5,clay,52,13.0
+Shadow Creek Golf Course,bentgrass,0.0,bermudagrass,0.35,bermudagrass,2.0,sand capped,74,6.0
+Sherwood Country Club,bentgrass,0.09,bentgrass,0.35,ryegrass,3.0,sandy,51,9.0
+Silverado Resort and Spa (North Course),poa annua,0.0,bermudagrass,0.0,kentucky bluegrass,0.0,none,0,8.0
+Southern Hills Country Club,bentgrass,0.114,bermudagrass,0.55,bermudagrass,2.25,clay loam,88,0.0
+St. Andrews Links (Old Course),fescue,0.138,fescue,0.354,tall fescue,1.65,sandy,110,15.0
+St. George's G&amp;CC,bentgrass,0.115,bentgrass,0.3,kentucky bluegrass,3.5,sandy loam,104,2.0
+TPC Boston,bentgrass,0.12,bentgrass,0.375,kentucky bluegrass,4.0,loam,64,3.0
+TPC Craig Ranch,bentgrass,0.1,zoysia,0.425,bermudagrass,2.5,sand capped,83,4.0
+TPC Craig Ranch (Par 71),bentgrass,0.1,zoysia,0.45,bermudagrass,2.75,sand capped,83,13.0
+TPC Deere Run,bentgrass,0.1,bentgrass,0.39,kentucky bluegrass,4.0,clay,76,13.0
+TPC Four Seasons Resort,paspalum,0.0,paspalum,0.0,paspalum,0.0,none,0,3.0
+TPC Harding Park,bentgrass,0.14,poa annua,0.5,poa annua,3.5,sandy loam,47,0.0
+TPC Louisiana,bermudagrass,0.11,bermudagrass,0.5,bermudagrass,1.75,sandy,101,0.001
+TPC Potomac at Avenel Farm,bentgrass,0.1,bentgrass,0.325,tall fescue,3.0,clay,80,5.0
+TPC River Highlands,bentgrass,0.115,bentgrass,0.375,kentucky bluegrass,4.0,sandy loam,69,10.0
+TPC San Antonio (Oaks Course),poa trivialis,0.11,ryegrass,0.4,ryegrass,2.25,sand capped,64,5.0
+TPC Sawgrass (THE PLAYERS Stadium Course),poa trivialis,0.1,bermudagrass,0.275,bermudagrass,3.5,sandy loam,92,3.0
+TPC Scottsdale (Stadium Course),poa trivialis,0.1,poa trivialis,0.4,bermudagrass,3.0,sand capped,67,18.0
+TPC Southwind,bermudagrass,0.09,bermudagrass,0.425,bermudagrass,2.5,clay,75,6.0
+TPC Summerlin,bentgrass,0.125,zoysia,0.5,bermudagrass,2.25,loam,92,11.0
+TPC Twin Cities,bentgrass,0.1,bermudagrass,0.3,kentucky bluegrass,4.0,sandy,72,4.0
+The Concession Golf Club,bermudagrass,0.1,bentgrass,0.35,bermudagrass,1.25,sandy loam,73,15.0
+The Country Club of Jackson,bermudagrass,0.11,bermudagrass,0.45,bermudagrass,2.0,sand capped,56,12.0
+The Los Angeles Country Club (North Course),bentgrass,0.0,bermudagrass,0.375,bermudagrass,3.5,none,0,0.0
+The Old White TPC,bentgrass,0.1,bentgrass,0.4,kentucky bluegrass,3.0,none,85,9.0
+The Renaissance Club,bentgrass,0.125,bentgrass,0.4,kentucky bluegrass,3.0,none,82,4.0
+The Riviera Country Club,poa annua,0.1,kikuyu,0.35,kikuyu,2.0,loam,58,0.001
+The Summit Club,bentgrass,0.09,bermudagrass,0.45,bermudagrass,3.0,sand capped,62,7.0
+Torrey Pines Golf Course (South Course),bentgrass,0.1,bermudagrass,0.425,kikuyu,3.0,clay,42,0.001
+Torrey Pines South (U.S. Open),poa annua,0.95,kikuyu,0.425,kikuyu,3.0,clay,82,1.0
+Trinity Forest Golf Club,bermudagrass,0.1,zoysia,0.375,zoysia,0.0,sandy loam,88,0.001
+Trump National Doral,bentgrass,0.0,bentgrass,0.0,kentucky bluegrass,0.0,none,0,0.0
+Vidanta Vallarta,paspalum,0.0,paspalum,0.0,paspalum,0.0,none,0,0.0
+Waialae Country Club,bermudagrass,0.0,bermudagrass,0.0,bermudagrass,0.0,none,83,5.0
+Whistling Straits,bentgrass,0.1,fescue,0.4,tall fescue,3.25,none,200,1.0
+Wilmington Country Club,bentgrass,0.1,bentgrass,0.39,tall fescue,4.0,clay loam,91,4.0
+Winged Foot GC,poa annua,0.11,poa annua,0.3,kentucky bluegrass,4.25,loam,76,2.0
